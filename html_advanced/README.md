@@ -12,7 +12,7 @@ This project is a sample web page built using HTML and CSS. It demonstrates the 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
+1. Clone the repository: `git clone https://github.com/stanleyakor1/alx_html_css.git`
 2. Navigate to the project directory: `cd project-name`
 
 ## Usage
