@@ -13,11 +13,8 @@ main {
 }
 
 article {
-  background-color: #eaf6ff;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 20px;
+  flex: 2;
+  overflow-y: auto;
 }
 
 aside {
