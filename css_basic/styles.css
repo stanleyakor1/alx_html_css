@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  flex-direction: column;
+
+      <!--color: green;-->
+    font-family:  sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+
+article {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+aside {
+  flex: 1;
+  overflow-y: auto;
+}
+
